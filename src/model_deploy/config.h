@@ -30,15 +30,15 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "fall:\n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        " * * * * * * * * \n\r"};
+        "triangle:\n\r"
+        "               * \n\r"
+        "             * * \n\r"
+        "           *   * \n\r"
+        "         *     * \n\r"
+        "       *       * \n\r"
+        "     *         * \n\r"
+        "   *           * \n\r"
+        " *             * \n\r"};
 };
 
 Config config;
